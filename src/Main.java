@@ -30,7 +30,7 @@ public class Main {
         byte annaSergeevnaStydents = 27;
         byte ekaterinaAndreevnaStydents = 30;
         short paper = 480;
-        System.out.println("На каждого ученика рассчитано " +paper/(lyudmilaPavlovnaStydents+annaSergeevnaStydents+ekaterinaAndreevnaStydents) + " листов бумаги.");
+        System.out.println("На каждого ученика рассчитано " +paper / (lyudmilaPavlovnaStydents+annaSergeevnaStydents+ekaterinaAndreevnaStydents) + " листов бумаги.");
 
         //Задание 4
         System.out.println("Задание 4");
